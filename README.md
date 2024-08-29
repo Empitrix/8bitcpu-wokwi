@@ -6,5 +6,5 @@ This project is based on [8-Bit CPU](https://github.com/Empitrix/8bitcpu), which
 ## Preview
 ![preview](./assets/preview.gif)
 
-See [8-Bit CPU in Wokwi](https://wokwi.com/projects/407516594168213505).
+See [8-Bit CPU in Wokwi](https://wokwi.com/projects/407571761432142849).
 
